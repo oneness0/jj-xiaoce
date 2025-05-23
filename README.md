@@ -11,6 +11,7 @@
 
 - [函数式编程指南中文版](https://llh911001.gitbook.io/mostly-adequate-guide-chinese)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+- [现代 JavaScript 教程](https://zh.javascript.info/)
 
 ## 其他
 
