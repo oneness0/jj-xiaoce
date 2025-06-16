@@ -2,10 +2,14 @@
 
 ## 掘金小册
 
-- [JavaScript 设计模式核心原理与应用实践](https://juejin.cn/book/6844733790204461070)
-- [React 进阶实践指南](https://juejin.cn/book/6945998773818490884?enter_from=course_center&utm_source=course_center)
-- [前端性能优化原理与实践](https://juejin.cn/book/6844733750048210957)
-- [前端面试之道](https://juejin.cn/book/6844733763675488269)
+- [JavaScript 设计模式核心原理与应用实践](./JavaScript%20设计模式核心原理与应用实践/)
+  （[小册介绍](https://juejin.cn/book/6844733790204461070)）
+- [React 进阶实践指南](./React%20进阶实践指南/)
+  （[小册介绍](https://juejin.cn/book/6945998773818490884)）
+- [前端性能优化原理与实践](./前端性能优化原理与实践/)
+  （[小册介绍](https://juejin.cn/book/6844733750048210957)）
+- [前端面试之道](./前端面试之道/)
+  （[小册介绍](https://juejin.cn/book/6844733763675488269)）
 
 ## 书籍
 
