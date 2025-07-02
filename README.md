@@ -6,9 +6,9 @@
 
 * JavaScript 设计模式核心原理与应用实践 <small>（[小册介绍](https://juejin.cn/book/6844733790204461070)）</small>
 * React 进阶实践指南 <small>（[小册介绍](https://juejin.cn/book/6945998773818490884)）</small>
-* 前端性能优化原理与实践（[小册介绍](https://juejin.cn/book/6844733750048210957)）</small>
+* 前端性能优化原理与实践 <small>（[小册介绍](https://juejin.cn/book/6844733750048210957)）</small>
 * 前端算法与数据结构面试：底层逻辑解读与大厂真题训练 <small>（[小册介绍](https://juejin.cn/book/6844733800300150797)）</small>
-* 前端面试之道（[小册介绍](https://juejin.cn/book/6844733763675488269)）</small>
+* 前端面试之道 <small>（[小册介绍](https://juejin.cn/book/6844733763675488269)）</small>
 
 ## 书籍
 
